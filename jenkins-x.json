@@ -9,7 +9,6 @@
            ]],
      "autoupdate": {
         "url": "https://github.com/jenkins-x/jx/releases/download/v$version/jx-windows-amd64.zip",
-        "extract_dir": "jx-$version",
         "hash": {
             "url": "$url.sha256"
         }
