@@ -3,7 +3,6 @@
     "version": "1.3.653",
     "url": "https://github.com/jenkins-x/jx/releases/download/v1.3.653/jx-windows-amd64.zip",
     "hash": "c961156e36f8f8184ad2922daa79c6319100aad4053ee772db82b886bb18dfc8",
-    "extract_dir": "jenkins-x",
     "bin": [[
                "jx-windows-amd64.exe",
                "jx"
